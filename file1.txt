@@ -3,10 +3,9 @@ local change
 }
 
 funcB{
-local change
-
+remote change 
 }
 
 funcC{
-
+remote change
 }
