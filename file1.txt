@@ -3,9 +3,9 @@ funcA{
 }
 
 funcB{
-
+remote change 
 }
 
 funcC{
-
+remote change
 }
