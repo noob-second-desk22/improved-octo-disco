@@ -1,7 +1,3 @@
-funcA{
-local change 2 
-local change
-}
 
 funcXYZ{
 PR using 2nd branch
