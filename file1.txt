@@ -1,21 +1,17 @@
-funcA{
-local change 2 
-local change
-}
 
 funcXYZ{
 PR using 2nd branch
 }
 
-funcB{
-remote change 
-local change 2
-PR changes
-}
+more local changes
 
-bla bla bla 
+bla bla bla
 
 funcC{
 remote change
+more local changes
 local change 2
 }
+
+
+more local changes
